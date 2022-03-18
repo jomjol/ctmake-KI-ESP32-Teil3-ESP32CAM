@@ -31,8 +31,8 @@ static const char *TAG = "ESP32CAM-CNN";
 /////////// 0) Konfiguration und Einstellungen /////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////////////////////////////
     // WLan Einstellungen
-    const char* WLAN_ssid     = "SoJoFritzBox";
-    const char* WLAN_password = "z1504jlp77";
+    const char* WLAN_ssid     = "SSID";
+    const char* WLAN_password = "PASSWORD";
 
     // Bildeinstellungen Bildgröße = QVGA (320x240x3 Farben)
     int Camera_Image_Size_x = 320;
